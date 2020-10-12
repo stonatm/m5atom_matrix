@@ -46,4 +46,5 @@ Next can open blocky file: [matrix_tmp36_blinks.m5f](matrix_tmp36_blinks.m5f)
  **draw number** - Draws the given positive integer from the range [0-99] on the LED matrix.
  
  **set number colors** - Sets the colors for the tens digits, ones and the place where these numbers overlap on the display.
+Color is a number in the range from 0 to 360 in HSV color model, 
  
